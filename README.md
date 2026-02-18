@@ -1,3 +1,5 @@
+﻿> Public demo page: https://sky-brazil.github.io/intl-revenue-churn-analytics/
+
 # 03 - Revenue Dashboard and Churn Prediction (MVP API)
 
 Practical analytics API focused on SaaS revenue visibility and proactive churn prevention.
@@ -67,3 +69,4 @@ pytest -q
 cd projects/03-revenue-churn-analytics
 docker compose up --build
 ```
+
